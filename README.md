@@ -1,4 +1,4 @@
-# Bright-coffe-shop-case-study
+# Bright coffee shop
 
 # Overview
 This portfolio showcases a data-driven Sales Performance Analysis for Bright Coffee Shop. Utilizing SQL, miro,canva,excel and Databricks, I transformed six months of raw transactional data into actionable business insights and strategic presentation materials.
