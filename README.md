@@ -41,13 +41,15 @@ My goal is to translate six months of transactional data into a Strategic Growth
 
 🎨 **Canva**:for designing and presenting the final presentation
 
+# 🎥 How to View
+
 .-💻SQL Code - Includes all queries used for data transformation and insights. > 🔗 View SQL Scripts
 
 -📊Excel Pivot Table - is available in PDF format within this repository.- >🔗View Pivot Table
 
 -📽️Full presentation - is available in PDF format within this repository.- >🔗View Presentation
 
--🧹Uncleaned Data - is available in CSV format within this repository.- >🔗View Uncleaned Data
+-🧹Uncleaned Data - is available in CSV format within this repository.- >🔗[View Uncleaned Data](https://raw.githubusercontent.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/refs/heads/main/1%20Project%20description%20%26%20raw%20data/Bright_Coffee_Shop_Analysis(raw%20data).csv)
 
 -✨Cleaned Data - is available in CSV format within this repository.- >🔗View Cleaned Data
 
