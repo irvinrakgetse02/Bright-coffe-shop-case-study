@@ -20,17 +20,17 @@ Weather Impact: Sales peak in May/June as colder temperatures drive coffee consu
 Overoll growth:sales generally goes up from january to june on all stores
 
 # 💡GROWTH AND  Recommendations
-Bulk:Introduce combos in all stores and mostly in the morning introduce bulk buy only in manhatta
+BULK:Introduce combos in all stores and mostly in the morning introduce bulk buy only in manhatta
 
-May and June: Create hot sales campaign from  may to june
+MAY AND JUNE: Create hot sales campaign from  may to june
 
 Morning Combo Launch: Implement curated breakfast pairings across all locations to capitalize on the 56% morning peak and drive higher transaction values.
 
 Manhattan Bulk-Buy Pilot: Introduce high-volume "Office Bundles" exclusively at the Manhattan store to serve the local corporate demographic and increase bulk revenue.
 
-Tuesday Value Campaign: Launch a recurring "Mid-Week Special" to incentivize customer visits during off-peak days.
+TUESDAY VALUE CAMPAIGN: Launch a recurring "Mid-Week Special" to incentivize customer visits during off-peak days.
 
-Objective: Stabilize daily revenue fluctuations and increase store foot traffic by 15–20% on traditionally slower weekdays.
+OBJECTIVE: Stabilize daily revenue fluctuations and increase store foot traffic by 15–20% on traditionally slower weekdays.
 
 # 🛠️ Tools & Technologies Used
 
