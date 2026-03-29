@@ -47,7 +47,7 @@ My goal is to translate six months of transactional data into a Strategic Growth
 
 -📊Excel Pivot Table - is available in PDF format within this repository.- >🔗[View Pivot Table](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Firvinrakgetse02%2FBright-coffe-shop-sales-analysis%2Frefs%2Fheads%2Fmain%2F3%2520Data%2520processing%2Fgraphs.xlsx&wdOrigin=BROWSELINK)
 
--📽️Full presentation - is available in PDF format within this repository.- >🔗View Presentation
+-📽️Full presentation - is available in PDF format within this repository.- >🔗[View Presentation](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/0cd8044416d892c0a1362dd89a789cba04d8f9fa/4%20Project%20presentation/bright%20coffee%20shop%20presentation.pdf)
 
 -🧹Uncleaned Data - is available in CSV format within this repository.- >🔗[View Uncleaned Data](https://raw.githubusercontent.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/refs/heads/main/1%20Project%20description%20%26%20raw%20data/Bright_Coffee_Shop_Analysis(raw%20data).csv)
 
@@ -61,7 +61,7 @@ My goal is to translate six months of transactional data into a Strategic Growth
 
 📩 Contact
 Want to collaborate or have feedback?
-📧 Email: Njabuloxnkosi12@gmail.com 🔗 LinkedIn:[linkedin](https://www.linkedin.com/feed/)
+📧 Email: [irvinrakgetse02@gmail.com] 🔗 LinkedIn:[linkedin profile](https://www.linkedin.com/feed/)
 
 
 
