@@ -43,7 +43,7 @@ My goal is to translate six months of transactional data into a Strategic Growth
 
 # 🎥 How to View
 
-.-💻SQL Code - Includes all queries used for data transformation and insights. > 🔗 View SQL Scripts
+.-💻SQL Code - Includes all queries used for data transformation and insights. > 🔗 [View SQL Scripts](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/main/3%20Data%20processing/bright%20coffee%20code.sql)
 
 -📊Excel Pivot Table - is available in PDF format within this repository.- >🔗View Pivot Table
 
