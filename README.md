@@ -35,8 +35,11 @@ Objective: Stabilize daily revenue fluctuations and increase store foot traffic 
 # 🛠️ Tools & Technologies Used
 
 🧠 Miro:for project planning and workflow mapping
+
 📊 Excel:for data cleaning, preparation, and pivot table analysis
+
 🐘 SQL:for querying structured data and extracting insights
+
 🎨 Canva:for designing and presenting the final presentation
 
 
